@@ -1,4 +1,4 @@
-# Anotações
+# Anotações Back-end
 
 ## KnexJS
 
@@ -18,4 +18,12 @@
 
 ```
   yarn knex:rollback
+```
+
+## Validações dos dados
+
+- [celebrate](https://github.com/arb/celebrate)
+
+```
+  yarn add celebrate
 ```
